@@ -1,8 +1,8 @@
 # 🚀 SmartRAG
 
-**SmartRAG** is a terminal-based Retrieval-Augmented Generation (RAG) system built using [LangGraph](https://github.com/langchain-ai/langgraph). It routes user queries through a custom flow that includes message history, query transformation, and document retrieval from a vector store.
+**SmartRAG** is a terminal-based Retrieval-Augmented Generation (RAG) system built using [LangGraph](https://github.com/co-dev0909/langgraph). It routes user queries through a custom flow that includes message history, query transformation, and document retrieval from a vector store.
 
-> 🔗 GitHub: [https://github.com/aimaster-dev/SmartRAG](https://github.com/aimaster-dev/SmartRAG)
+> 🔗 GitHub: [https://github.com/co-dev0909/SmartRAG](https://github.com/co-dev0909/SmartRAG)
 
 ---
 
@@ -36,7 +36,7 @@ Follow the steps below to get SmartRAG up and running:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/aimaster-dev/SmartRAG.git
+git clone https://github.com/co-dev0909/SmartRAG.git
 cd SmartRAG
 ```
 
@@ -103,11 +103,11 @@ python main.py
 
 ### 📄 Vector Store Creation
 
-![Vector DB](https://github.com/aimaster-dev/SmartRAG/blob/main/architecture/RAG.png)
+![Vector DB](https://github.com/co-dev0909/SmartRAG/blob/main/architecture/RAG.png)
 
 ### 🧠 RAG Pipeline
 
-![RAG Flow](https://github.com/aimaster-dev/SmartRAG/blob/main/architecture/RAG.png)
+![RAG Flow](https://github.com/co-dev0909/SmartRAG/blob/main/architecture/RAG.png)
 
 ---
 
